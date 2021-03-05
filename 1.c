@@ -1,3 +1,6 @@
+//1 - Faça um programa que receba do usuário um número e diga se o número é par ou impar
+
+
 #include <stdio.h>
 
 int main()

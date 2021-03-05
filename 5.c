@@ -1,3 +1,6 @@
+//5 - Faça um programa que receba do usuário um número N e mostre os N primeiros números primos.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

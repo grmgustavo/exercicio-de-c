@@ -1,3 +1,6 @@
+//2 - Faça um programa que receba do usuário uma temperatura em graus Celsius e transforme em Firenhaint
+
+
 #include <stdio.h>
 
 int main()
