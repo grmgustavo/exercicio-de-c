@@ -12,11 +12,11 @@ int main()
 
     if (n % 2 == 0)
     {
-        printf("\n é par");
+        printf("\n O número é par");
     }
     else
     {
-        printf("\n não é par");
+        printf("\n O número é ímpar");
     }
 
     printf("\n");
